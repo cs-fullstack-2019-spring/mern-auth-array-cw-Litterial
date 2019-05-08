@@ -9,3 +9,5 @@ Create the following pages:
 - Log Out: Log out the user.
 
 Make sure to use cookies, and salt/hash your passwords.
+<hr>
+1 point. I can't sign in to confirm if a new user is being created. Because of that I can't check cookies, books, or sign in.
